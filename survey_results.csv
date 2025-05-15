@@ -1,0 +1,9 @@
+respondent,service_quality,communication,value_for_money,average,category
+Alice,5,4,5,4.666666666666667,Very Good
+Bob,3,3,3,3.0,Neutral
+Charlie,4,5,4,4.333333333333333,Good
+Dave,2,2,2,2.0,Bad
+Eve,5,5,5,5.0,Very Good
+Frank,1,2,1,1.3333333333333333,Really Bad
+Grace,3,2,1,2.0,Bad
+Hank,4,5,4,4.333333333333333,Good
